@@ -14,6 +14,7 @@
   @media (min-width: $bp-lg) {
     padding: 100px 70px;
     @include flexes (row, center, flex-start, 40px);
+
   }
 }
 
